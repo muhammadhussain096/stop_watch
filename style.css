@@ -1,0 +1,45 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTj2oBFWPys8_PZc10caZHDP99HWuvLGHq0fA&usqp=CAU);
+}
+.isthead {
+  color: #ffffff;
+  text-align: center;
+  font-size: xx-large;
+  text-shadow: 2px 2px 20px white;
+}
+.snd {
+  color: white;
+  text-align: center;
+  font-size: x-large;
+}
+.snd h1 {
+  display: inline-block;
+  background-color: grey;
+  width: 70px;
+  color: lightskyblue;
+}
+.erd{
+    text-align: center;
+    }
+.erd button{
+    padding: 10px;
+    color:lightskyblue;
+    font-size: large;
+    background-color: grey;
+}
+button:hover{
+    /* background-color: darkslategrey; */
+}
+#lap2 {
+list-style-type: decimal;
+font-size: large;
+color: #ffffff;
+text-align: center;
+}
+#lap2 li {
+  margin-bottom: 5px;
+  background-color: grey;
+  color: lightskyblue;
+  padding: 6px;
+  text-align:center;
+}
